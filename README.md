@@ -7,7 +7,6 @@ by Hayeong Pyeon
 
 ## Setup Instructions
 ### Preconditions
-> Make sure you have [MySQL Community Server and Workbench installed](https://full-time.learnhowtoprogram.com/c-and-net/getting-started-with-c/installing-and-configuring-mysql). 
 > `dotnet-ef` tool is necessary for this project. Install it by running `dotnet tool install --global dotnet-ef --version 6.0.0` in your terminal. 
 ### How to run the project
 1. Clone this repo.
